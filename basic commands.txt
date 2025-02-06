@@ -1,0 +1,11 @@
+# Check Docker version
+docker --version
+
+# Check running containers (if any)
+docker ps
+
+# Check all containers (including stopped ones)
+docker ps -a
+
+# Check downloaded images
+docker images
